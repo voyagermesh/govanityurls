@@ -1,7 +1,13 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: voyagermesh.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /voyager:
+    repo: https://github.com/voyagermesh/voyager
+  /apimachinery:
+    repo: https://github.com/voyagermesh/apimachinery
+  /haproxy-ingress:
+    repo: https://github.com/appscode/haproxy-ingress
+  /installer:
+    repo: https://github.com/voyagermesh/installer
+  /hello-grpc:
+    repo: https://github.com/voyagermesh/hello-grpc
