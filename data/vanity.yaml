@@ -5,6 +5,8 @@ paths:
     repo: https://github.com/voyagermesh/voyager
   /apimachinery:
     repo: https://github.com/voyagermesh/apimachinery
+  /cli:
+    repo: https://github.com/voyagermesh/cli
   /haproxy-ingress:
     repo: https://github.com/appscode/haproxy-ingress
   /installer:
