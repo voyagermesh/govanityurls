@@ -1,17 +1,18 @@
 host: voyagermesh.dev
-
 paths:
-  /voyager:
-    repo: https://github.com/voyagermesh/voyager
   /apimachinery:
     repo: https://github.com/voyagermesh/apimachinery
   /cli:
     repo: https://github.com/voyagermesh/cli
-  /haproxy-ingress:
-    repo: https://github.com/appscode/haproxy-ingress
-  /installer:
-    repo: https://github.com/voyagermesh/installer
-  /hello-grpc:
-    repo: https://github.com/voyagermesh/hello-grpc
+  /crd-manager:
+    repo: https://github.com/voyagermesh/crd-manager
   /gateway-api:
     repo: https://github.com/voyagermesh/gateway-api
+  /haproxy-ingress:
+    repo: https://github.com/appscode/haproxy-ingress
+  /hello-grpc:
+    repo: https://github.com/voyagermesh/hello-grpc
+  /installer:
+    repo: https://github.com/voyagermesh/installer
+  /voyager:
+    repo: https://github.com/voyagermesh/voyager
